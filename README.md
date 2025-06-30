@@ -20,8 +20,6 @@ CrisisCast is a real-time disaster alert bot that uses **AWS Lambda**, **EventBr
 4. Deploy to AWS Lambda
 5. Schedule with EventBridge to run every hour
 
-## 📽️ Demo Video
-[Add your YouTube link here]
 
 ## 💡 Why it Matters
 - Helps people get disaster alerts instantly
